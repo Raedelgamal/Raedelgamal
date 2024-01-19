@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raedelgamal
 - 👀 I’m a fresh graduate software engineer
-- 🌱 I’m currently learning embedded systems
+- 🌱 I’m currently learning software testing
 - 
 <!---
 Raedelgamal/Raedelgamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
